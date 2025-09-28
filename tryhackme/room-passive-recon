@@ -1,0 +1,23 @@
+tryhackme.com/room/passivereconnaissance
+# TryHackMe: Passive Reconnaissance
+**Date Completed: 2025-09-27**
+**Category:** Intermediate (Defensive/Forensics)**
+
+## 🔑 What I learned
+
+- Reconnaissance (recon) can be defined as a preliminary survey to gather information about a target.
+- Passive Reconnaissance = Relying on publicly available knowledge. It is the knowledge that you can access from publicly available resources without directly engaging with the target.
+Learned Tools:
+- `whois` to query WHOIS servers
+- `nslookup` to query DNS servers
+- `dig` to query DNS servers
+- DNSDumpster
+- Shodan.io
+
+## 🧠 Reflection
+
+Passive Reconaissance is the safest method to gather information about a target without risking legal problems or raising attention. Activities including:
+
+- Looking up DNS records of a domain from a public DNS server.
+- Checking job ads related to the target website.
+- Reading news articles about the target company.
